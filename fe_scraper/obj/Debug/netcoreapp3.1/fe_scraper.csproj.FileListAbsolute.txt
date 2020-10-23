@@ -1,0 +1,9 @@
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\bin\Debug\netcoreapp3.1\fe_scraper.deps.json
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\bin\Debug\netcoreapp3.1\fe_scraper.dll
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.csprojAssemblyReference.cache
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.AssemblyInfoInputs.cache
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.AssemblyInfo.cs
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\bin\Debug\netcoreapp3.1\fe_scraper.pdb
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.csproj.CoreCompileInputs.cache
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.dll
+C:\Users\Chimera\source\repos\fe_scraper\fe_scraper\obj\Debug\netcoreapp3.1\fe_scraper.pdb
